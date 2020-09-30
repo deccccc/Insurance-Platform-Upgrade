@@ -1,0 +1,17 @@
+server:
+  port: 8082
+
+spring:
+  main:
+    banner-mode: "off"
+  data:
+    mongodb:
+      uri: mongodb://localhost/insurance
+
+logging:
+  level:
+    ROOT: INFO
+    com.adeliosys: DEBUG
+    #org.springframework: DEBUG
+    #org.springframework.security: DEBUG
+
