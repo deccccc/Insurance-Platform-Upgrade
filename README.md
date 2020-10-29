@@ -9,7 +9,7 @@ Our microservices-based system consists of the following modules:
 - **contact automation-service** - a module sends the customized requests by user to the backend and contact specific agents for user by doing CRUD operations to the database,
 - **caller reward-service** - a module record the angents' performence by doing CRUD to the database and generate data visulization reports by D3.JS . It communicates with contact automation service. 
 
-The picture of architecture is presented as follow.
+The picture of architecture is presented as follow.</br>
 <img src="https://github.com/deccccc/Insurance-Platform-Upgrade/blob/master/src/main/poc%20UML.JPG" title="Architecture"/>
 
 
