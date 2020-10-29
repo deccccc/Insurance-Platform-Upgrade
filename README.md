@@ -10,7 +10,7 @@ Our microservices-based system consists of the following modules:
 - **caller reward-service** - a module record the angents' performence by doing CRUD to the database and generate data visulization reports by D3.JS . It communicates with contact automation service. 
 
 
-<img src="https://drive.google.com/file/d/1-5hTmjiQdiYnMYc0iV5uBSlN2JHiRUb1/view" title="Architecture"/>
+<img src="https://drive.google.com/file/d/1-5hTmjiQdiYnMYc0iV5uBSlN2JHiRUb1/view?usp=sharing" title="Architecture"/>
 
 
 ## Environment
